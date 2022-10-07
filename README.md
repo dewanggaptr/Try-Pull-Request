@@ -6,6 +6,5 @@
 5. git add
 6. git commit -m "content"
 7. git push -u origin branchname
-8. Tes
 
 ## by Ucok
