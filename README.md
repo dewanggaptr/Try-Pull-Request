@@ -8,3 +8,4 @@
 7. git push -u origin branchname
 
 ## by Ucok
+1. Tes Hacktoberfest 2022
